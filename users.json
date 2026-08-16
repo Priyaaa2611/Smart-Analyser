@@ -1,0 +1,57 @@
+{
+  "+916363005110": {
+    "id": "224797ac-2a0b-4316-8280-8e8c6b71f1b9",
+    "identifier": "+916363005110",
+    "password": "$2b$10$neOCyvuJeIPdRkRQsd/yt.MXIiI5tfEk9lhx..08ow.e8wdbzmjAS",
+    "type": "mobile",
+    "role": "farmer",
+    "createdAt": "2026-04-11T19:49:23.014Z",
+    "name": "Gagan",
+    "location": "Bangalore",
+    "farmType": "Vegetable"
+  },
+  "+917676321865": {
+    "id": "204ca221-2ed2-45de-a351-4d5001da8c2f",
+    "identifier": "+917676321865",
+    "password": "$2b$10$r6GpR/0n7X9hMaw6QVZzD.mFSK.TySFbvIihXHtWKIPIu5F.rG.ge",
+    "type": "mobile",
+    "role": "farmer",
+    "createdAt": "2026-04-12T06:33:19.913Z",
+    "name": "Advith",
+    "location": "Bangalore",
+    "farmType": "Vegetable"
+  },
+  "+918861168756": {
+    "id": "2e76a51c-3949-4be3-a393-9eb790cfb7a6",
+    "identifier": "+918861168756",
+    "password": "$2b$10$N2iMNDNwzyQpf7ckNbEkVu4zQvQ1MvkCrCjK2D8jJS4O8wXAgIUJC",
+    "type": "mobile",
+    "role": "farmer",
+    "createdAt": "2026-04-15T03:52:15.457Z",
+    "name": "Deekshitha",
+    "location": "Bangalore",
+    "farmType": "Vegetable"
+  },
+  "+917517502204": {
+    "id": "ae52d412-30ac-4357-a5f4-d24a9e915f97",
+    "identifier": "+917517502204",
+    "password": "$2b$10$RWKErXIEni6i9vA/bDxiROL.SBYxIZr0a80.6DWkND7v65dEkxhiy",
+    "type": "mobile",
+    "role": "farmer",
+    "createdAt": "2026-08-16T10:38:35.030Z",
+    "name": "Aaryan",
+    "location": "wardha",
+    "farmType": "Fruit"
+  },
+  "wbcp@gmail.com": {
+    "id": "7683c3c1-81cc-433c-a248-9af6a07ac885",
+    "identifier": "wbcp@gmail.com",
+    "password": "$2b$10$D4homGDNSRbJCyu5Wc4NG.blGOt4Je.AkKxz1JnO.GGCQFev054C.",
+    "type": "email",
+    "role": "farmer",
+    "createdAt": "2026-08-16T11:52:57.962Z",
+    "name": "Priya",
+    "location": "nagpur",
+    "farmType": "Mixed"
+  }
+}
